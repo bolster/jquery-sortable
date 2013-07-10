@@ -609,4 +609,4 @@
     });
   };
 
-}(jQuery, window)
+}(jQuery, window);
